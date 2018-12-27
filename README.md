@@ -34,3 +34,6 @@ To run the code, type `python edge_webcam.py`
 
 ## Execution for Canny Edge Detection in real-time
 To run the code, type `python canny_edge.py`
+
+### Output
+![capture4](https://user-images.githubusercontent.com/33591235/50479618-7670f180-09fd-11e9-9686-a7bd8696ac22.PNG)
